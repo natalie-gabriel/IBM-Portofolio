@@ -11,7 +11,7 @@ Ini adalah repositori untuk Capstone Project saya sebagai bagian dari program **
 Berikut adalah tampilan dari website portofolio yang sudah di-deploy:
 
 *Tampilan Responsive Web*
-![Desktop View](URL_SCREENSHOT_DESKTOP_NATALIE)
+![Desktop View](https://raw.githubusercontent.com/natalie-gabriel/IBM-Portofolio/main/assets/images/mockup.png)
 
 
 ---
